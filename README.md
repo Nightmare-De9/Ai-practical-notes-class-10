@@ -1,7 +1,3 @@
-Here's an expanded and detailed version of the **Class 10 Python Practicals Notes**, covering a wider range of concepts, additional code snippets, and examples that could be useful for your practicals:
-
----
-
 ## **Class 10 Python Practicals Notes (Expanded)**
 
 ### 1. **Introduction to Python**
@@ -312,7 +308,3 @@ Here's an expanded and detailed version of the **Class 10 Python Practicals Note
   string = input("Enter a string: ")
   print("Reversed string is:", string[::-1])
   ```
-
----
-
-This expanded version of the notes covers a broad spectrum of Python concepts, with extra examples and explanations suitable for Class 10 practicals. They aim to provide both a conceptual understanding and hands-on practice for students.
